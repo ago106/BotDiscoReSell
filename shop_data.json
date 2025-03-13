@@ -1,0 +1,120 @@
+{
+    "Roblox": {
+        "Executors": {
+            "Wave": {
+                "7d": {
+                    "price_usd": 10,
+                    "quantity": 0
+                },
+                "30d": {
+                    "price_usd": 30,
+                    "quantity": 0
+                },
+                "90d": {
+                    "price_usd": 50.5,
+                    "quantity": 0
+                }
+            },
+            "AWP.GG": {
+                "7d": {
+                    "price_usd": 10.15,
+                    "quantity": 0
+                },
+                "30d": {
+                    "price_usd": 30,
+                    "quantity": 0
+                },
+                "90d": {
+                    "price_usd": 50,
+                    "quantity": 0
+                }
+            },
+            "Synapse Z": {
+                "7d": {
+                    "price_usd": 10.15,
+                    "quantity": 0
+                },
+                "30d": {
+                    "price_usd": 30,
+                    "quantity": 0
+                },
+                "90d": {
+                    "price_usd": 50,
+                    "quantity": 0
+                }
+            }
+        },
+        "Accounts": {
+            "Fallen Survival": {
+                "price_usd": 1.75,
+                "quantity": 10
+            },
+            "2010 - accs": {
+                "price_usd": 50,
+                "quantity": 0
+            },
+            "2018 - accs": {
+                "price_usd": 50,
+                "quantity": 0
+            }
+        },
+        "Scripts": {
+            "Lycoris | Deepwoken": {
+                "price_usd": 12.25,
+                "quantity": 0
+            },
+            "W-Azure": {
+                "price_usd": 12.25,
+                "quantity": 0
+            }
+        }
+    },
+    "Minecraft": {
+        "Taunhai": {
+            "Taunahi": {
+                "price_usd": 24,
+                "quantity": "∞"
+            },
+            "Taunahi+": {
+                "price_usd": 20,
+                "quantity": "∞"
+            },
+            "Taunahi Bundle": {
+                "price_usd": 40,
+                "quantity": "∞"
+            },
+            "Taunahi Alt Slot": {
+                "price_usd": 9,
+                "quantity": "∞"
+            },
+            "Taunahi Reset": {
+                "price_usd": 24,
+                "quantity": "∞"
+            }
+        },
+        "Oringo": {
+            "Oringo Mod": {
+                "price_usd": 24,
+                "quantity": "∞"
+            },
+            "Oringo Cape+": {
+                "price_usd": 12,
+                "quantity": "∞"
+            }
+        },
+        "Polar": {
+            "Polar": {
+                "price_usd": 24,
+                "quantity": "∞"
+            },
+            "Polar+": {
+                "price_usd": 20,
+                "quantity": "∞"
+            },
+            "Polar Bundle": {
+                "price_usd": 40,
+                "quantity": "∞"
+            }
+        }
+    }
+}
