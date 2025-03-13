@@ -1,0 +1,15 @@
+{
+    "878680035991646230": {
+        "balance": 0.0,
+        "rating": 0.0,
+        "purchase_history": [],
+        "reviews": [
+            {
+                "user": "fura_gidj",
+                "rating": 5,
+                "review": "тест",
+                "timestamp": "2025-03-12 17:10:41"
+            }
+        ]
+    }
+}
